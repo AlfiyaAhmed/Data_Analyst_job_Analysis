@@ -41,7 +41,7 @@ Driven by a guest to navigate the data analyst job market more effectively, this
 | **Documentation** | Markdown |
 
 ---
-# 📊 Data Analyst Skills & Salary Analysis (2023)
+## 📊 Data Analyst Skills & Salary Analysis (2023)
 
 This project analyzes **top-demanded skills, top-paying skills, and optimal skill sets** for **Data Analyst roles in 2023** using SQL and Python.  
 It includes **data queries, visualizations, and insights** to help understand hiring and salary trends.
@@ -70,7 +70,7 @@ LIMIT 5
 ```
 
 ### 📊 Visualization
-![Top Demanded Skills](assests/top_demanded_skills.png)
+![Top Demanded Skills](assests/Top_demanded_skills.png)
 
 ---
 
@@ -116,7 +116,7 @@ LIMIT 5;
 ```
 
 ### 📊 Visualization
-![Top Paying Skills](assests/top_paying_job_skills.png)
+![Top Paying Skills](assests/Top_paying_job_skills.png)
 
 ---
 
