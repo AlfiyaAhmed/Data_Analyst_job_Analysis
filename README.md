@@ -238,24 +238,17 @@ LIMIT 10;
 
 ## 🛠 Tools & Technologies Used
 
-- SQL (PostgreSQL)
-- Python (Pandas, Matplotlib)
-- Jupyter Notebook
-- GitHub
-- Data Visualization
+- SQL  
+- PostgreSQL  
+- VS Code  
+- Git  
+- GitHub  
 
----
-
-## 📌 Key Takeaways
-
-- SQL and Python remain **core must-have skills**
-- Specialized tools lead to **higher salaries**
-- Combining **business intelligence + programming** offers the best career advantage
 
 ---
 
 ## 📎 Author
-**Your Name** — Data Analyst Portfolio Project  
+**Your Name** — Data Analyst Project  
 
 
 ## 🏆 **Project Highlights**
@@ -280,9 +273,11 @@ LIMIT 10;
 ---
 ## ✅ Conclusion
 
-This project provides a comprehensive analysis of **Data Analyst job market trends in 2023**, focusing on **skill demand, salary potential, and high-paying job opportunities**. The results show that **SQL and Python remain essential core skills**, while tools like **Tableau, Power BI, and Excel** continue to play a key role in business intelligence and reporting. Additionally, **specialized technologies such as PySpark and DataRobot** are linked to higher-paying roles, highlighting the value of advanced technical expertise.  
+### Conclusion
 
-Overall, the findings suggest that Data Analysts who combine **strong foundational skills with specialized or emerging technologies** can maximize both **employability and earning potential**. This analysis serves as a useful guide for professionals and aspiring analysts looking to make **data-driven decisions about skill development and career growth**.
+This project enhanced my **SQL** skills and provided valuable insights into the Data Analyst job market. The findings from the analysis help guide **skill development** and **job search priorities** by highlighting high-demand, high-salary competencies. Aspiring Data Analysts can strengthen their competitiveness by focusing on in-demand technical skills and database expertise. Overall, this project underscores the importance of **continuous learning** and staying adaptable to evolving trends in data analytics.
+
+This Project enhached my SQL skills and provide
 
 ---
 
