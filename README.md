@@ -15,6 +15,7 @@ This project analyzes real data analyst job postings to answer key questions abo
 
 # Background
 Driven by a guest to navigate the data analyst job market more effectively, this project was born from a desire to pinpoint top-paid and in-demand skills, stramlining others work to find optimal jobs.
+
 **Tables:**
 1. **job_postings_fact** - Main job data (salary, location, remote status)
 2. **company_dim** - Company information
@@ -49,8 +50,9 @@ It includes **data queries, visualizations, and insights** to help understand hi
 ## 🧠 1️⃣ Top Demanded Skills for Data Analyst Jobs
 
 ### 📌 Description
-This analysis identifies the **most in-demand skills** across Data Analyst job postings.  
-**SQL, Excel, Python, Tableau, and Power BI** appear most frequently, showing strong market demand for both technical and reporting skills.
+This analysis identifies the **most in-demand skills** across Data Analyst job postings.
+**SQL, Excel, Tableau, and Power BI** appear most frequently, showing strong market demand for database querying, reporting, and data visualization skills.
+
 
 ### 🧾 SQL Query Used
 ```sql
@@ -205,8 +207,7 @@ LIMIT 25;
 ## 🏆 5️⃣ Top-Paying Data Analyst Jobs
 
 ### 📌 Description
-This section analyzes the **highest-paying Data Analyst job postings in 2023**.
-It highlights **salary levels, job locations, schedules, and hiring companies**, helping identify where the **best-paying opportunities** exist.
+This analysis identifies the top  highest-paying Data Analyst roles by filtering job postings with available salary data. The goal is to highlight top-paying opportunities and better understand compensation trends in the job market.
 
 ### 🧾 SQL Query Used
 ```sql
@@ -232,25 +233,9 @@ LIMIT 10;
 ### 📊 Visualization
 ![Top Paying Jobs](assests/top_paying_roles.png)
 
----
 
 ---
-
-## 🛠 Tools & Technologies Used
-
-- SQL  
-- PostgreSQL  
-- VS Code  
-- Git  
-- GitHub  
-
-
 ---
-
-## 📎 Author
-**Your Name** — Data Analyst Project  
-
-
 ## 🏆 **Project Highlights**
 
 ✅ **Real-world data analysis**  
@@ -277,10 +262,8 @@ LIMIT 10;
 
 This project enhanced my **SQL** skills and provided valuable insights into the Data Analyst job market. The findings from the analysis help guide **skill development** and **job search priorities** by highlighting high-demand, high-salary competencies. Aspiring Data Analysts can strengthen their competitiveness by focusing on in-demand technical skills and database expertise. Overall, this project underscores the importance of **continuous learning** and staying adaptable to evolving trends in data analytics.
 
-This Project enhached my SQL skills and provide
 
 ---
 
 **👩💻 Created by:** Alfiya Ahmed  
 **📅 Date:** January 2024  
-**🏷️ Tags:** SQL, Data Analysis, PostgreSQL
