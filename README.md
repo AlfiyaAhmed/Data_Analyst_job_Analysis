@@ -117,9 +117,6 @@ ORDER BY
 LIMIT 5;
 ```
 
-### 📊 Visualization
-![Top Paying Skills](assests/Top_paying_job_skills.png)
-
 ---
 
 ## 🚀 3️⃣ Top-Paying Specialized Skills
@@ -145,9 +142,6 @@ ORDER BY
      avg_salary DESC
 LIMIT 25
 ```
-### 📊 Visualization
-![Specialized Skills](assests/top_paying_specialized_skills.png)
-
 ---
 
 ## ⚖️ 4️⃣ Optimal Skills for Data Analysts
@@ -267,3 +261,4 @@ This project enhanced my **SQL** skills and provided valuable insights into the 
 
 **👩💻 Created by:** Alfiya Ahmed  
 **📅 Date:** January 2026  
+Made with ❤️ as part of a Data Analytics Portfolio Project
